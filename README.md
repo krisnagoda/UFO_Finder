@@ -12,7 +12,7 @@ Create interactive dashboard that allows users to explore UFO sightings data by 
 ![This is an image](https://github.com/krisnagoda/UFO_Finder/blob/cf53d2a0aad650ff58254dcebff68d70d74bb25a/screen_shot_ufo_finder.jpg)
 
 ## Summary
-This site has a few opportunities:
+This is a great v1, offering the desired interactivity but it has a few opportunities:
  - Limited dataset, we should open this up for user contribution
  - Open text filter criteria, leads to zero result sets and we should implement structure to our filters
  - Add notification of new sightings in general or by specific criteria helping corroborate/group sightings
