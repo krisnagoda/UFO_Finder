@@ -13,6 +13,6 @@ Create interactive dashboard that allows users to explore UFO sightings data by 
 
 ## Summary
 This site has a few opportunities:
- - Limited dataset, we should open this up for contribution
- - Open text filter criteria, leading to zero result sets (implement structured filters)
- - Notification of new sightings in general or by specific criteria (corroborate/group sightings)
+ - Limited dataset, we should open this up for user contribution
+ - Open text filter criteria, leads to zero result sets and we should implement structure to our filters
+ - Add notification of new sightings in general or by specific criteria helping corroborate/group sightings
